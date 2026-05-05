@@ -1,0 +1,7 @@
+# Pastas
+.idea/
+Login/obj/
+Login/bin/
+
+# Arquivos
+Login.sln.DotSettings.user
